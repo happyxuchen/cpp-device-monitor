@@ -1,7 +1,4 @@
----
 
-
-```md
 # TEST PROCEDURE - C++ Device Monitor
 
 ## 1. Objective
